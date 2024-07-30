@@ -5,7 +5,7 @@ accountCity = "Jaipur"
 let accountState;
 
 console.log(accountId);
-// accountId = 2 // not allowed
+// accountId = 2 // not allowed...
 
 
 accountEmail = "hc@hc.com"
